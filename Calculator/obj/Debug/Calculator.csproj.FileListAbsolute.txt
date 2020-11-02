@@ -1,0 +1,14 @@
+C:\Users\4vine\source\repos\FractionCalculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\4vine\source\repos\FractionCalculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\4vine\source\repos\FractionCalculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\4vine\source\repos\FractionCalculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\4vine\source\repos\FractionCalculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\4vine\source\repos\FractionCalculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\4vine\source\repos\FractionCalculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\t0244106\Desktop\Vijay\FractionCalculator\FractionCalculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\t0244106\Desktop\Vijay\FractionCalculator\FractionCalculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\t0244106\Desktop\Vijay\FractionCalculator\FractionCalculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\t0244106\Desktop\Vijay\FractionCalculator\FractionCalculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\t0244106\Desktop\Vijay\FractionCalculator\FractionCalculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\t0244106\Desktop\Vijay\FractionCalculator\FractionCalculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\t0244106\Desktop\Vijay\FractionCalculator\FractionCalculator\Calculator\obj\Debug\Calculator.pdb
